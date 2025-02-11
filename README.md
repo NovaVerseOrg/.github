@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="[Link to website]">
-    <img src="./Img/NovaVerse.png" alt="NovaVerseOrg logo" height="240" > </a>
+    <img src="./Img/NovaVerse.png" alt="NovaVerseOrg logo" height="340" > </a>
 </p>
 
 <p align="center">
