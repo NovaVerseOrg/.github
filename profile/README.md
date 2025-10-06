@@ -9,13 +9,6 @@
   NovaVerseOrg is a non-profit organization dedicated to empowering individuals through open education. We believe that access to high-quality learning resources should be a fundamental right, not a privilege.
 </p>
 
-<p align="center">
-  <a href="[Link to  website]">Go to Website ✨</a> ·
-  <a href="[Link to bug reporting system (e.g., GitHub Issues)]">Report a Bug 🐞</a> ·
-  <a href="[Link to contribution guidelines]">Contribute 🫶</a> ·
-  <a href="[Link to curriculum overview/page]">Curriculum 🎓</a>
-</p>
-
 ---
 
 ## About NovaVerseOrg
